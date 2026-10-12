@@ -1,0 +1,40 @@
+{
+  "patterns": [
+    {
+      "id": 1,
+      "name": "MOELLER PARADIDDLE FLOW",
+      "focus": "MOELLER + OPEN-CLOSE DOUBLES",
+      "timeSignature": "4/4",
+      "difficulty": "INTERMEDIATE",
+      "youtubeURL": null,
+      "beats": [
+        { "number": 1, "hits": [
+          { "hand": "R", "tech": "g", "at": 0 },
+          { "hand": "R", "tech": "A", "at": 0 },
+          { "hand": "L", "tech": "t", "at": 0.25 },
+          { "hand": "R", "tech": "o", "at": 0.5 },
+          { "hand": "R", "tech": "c", "at": 0.75 }
+        ]},
+        { "number": 2, "hits": [
+          { "hand": "L", "tech": "W", "at": 0 },
+          { "hand": "L", "tech": "t", "at": 0.1667 },
+          { "hand": "L", "tech": "u", "at": 0.3333 },
+          { "hand": "R", "tech": "e", "at": 0.5 }
+        ]},
+        { "number": 3, "hits": [
+          { "hand": "L", "tech": "g", "at": 0 },
+          { "hand": "L", "tech": "A", "at": 0 },
+          { "hand": "R", "tech": "t", "at": 0.25 },
+          { "hand": "L", "tech": "o", "at": 0.5 },
+          { "hand": "L", "tech": "c", "at": 0.75 }
+        ]},
+        { "number": 4, "hits": [
+          { "hand": "R", "tech": "W", "at": 0 },
+          { "hand": "R", "tech": "t", "at": 0.1667 },
+          { "hand": "R", "tech": "u", "at": 0.3333 },
+          { "hand": "L", "tech": "e", "at": 0.5 }
+        ]}
+      ]
+    }
+  ]
+}
